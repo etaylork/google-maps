@@ -10,9 +10,9 @@ A practice project from the udemy course [Understanding Typescript](https://www.
 
 # How to run application
 
-1. Updated the GOOGLE_API_KEY variable in the `src/app.ts` file
+1. Update the GOOGLE_API_KEY variable in the `src/app.ts` file
 
-2. Updated the script section in the `index.html` file where it says FIXME with the google API Key.
+2. Update the script section in the `index.html` file where it says FIXME with the google API Key.
 
    ```html
    <script
